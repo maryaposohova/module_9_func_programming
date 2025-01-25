@@ -57,5 +57,6 @@ print()
 
 
 """Ссылка на задание:
-
+https://urban-university.ru/members/courses/course999421818026/20231203-
+0000domasnee-zadanie-po-teme-iteratory-699145666000
 """
