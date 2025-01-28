@@ -13,7 +13,7 @@
 #             print(result_1, i)
 #     return wrapper
 
-def is_prime(func):
+def is_prime(func):    # декоратор, вычисляющий простое или составное число
     def wrapper(*args, **kwargs):
         result_1 = func(*args, **kwargs)
         isprime = True
